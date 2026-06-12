@@ -1,6 +1,7 @@
 # Sane Vanilla CSS
 
 ## Get Missing Dependencies
+The template uses stylelint order for alphabetical order of CSS properties.
 ```sh
 npm install
 ```
