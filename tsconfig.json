@@ -1,5 +1,8 @@
 {
 	"compilerOptions": {
+		"rootDir": "ts",
+		"outDir": "js",
+		"alwaysStrict": true,
 		"allowJs": true,
 		"checkJs": true,
 		"target": "esnext",

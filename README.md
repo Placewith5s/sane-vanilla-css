@@ -12,8 +12,4 @@ npm install
 Do not `git clone` this template! Instead, download the zip folder on Gumroad to remove the need of deleting existing .git, .github, node_modules, and more:
 [Sane Vanilla CSS on Gumroad](https://placewith5s.gumroad.com/l/buxdx)
 
-### Use Extend Init (Python CLI)
-Say yes to common empty frontend folders.
-
-Read more on:
-[Github Repository](https://github.com/Placewith5s/extend-init)
+If you are not going to host on Github Pages, move index.html to the html folder.
